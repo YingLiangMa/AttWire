@@ -1,6 +1,7 @@
 # AttWire Multiple Object detection: Detect both devices and catheters in images
 
 Object detection using center point detection
+![](readme/000.jpg)
 
 ## Highlights
 
