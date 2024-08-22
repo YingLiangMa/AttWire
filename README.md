@@ -5,7 +5,7 @@ Object detection using center point detection
 
 ## Highlights
 
-- **Simple:** One-sentence method summary: use keypoint detection technic to detect the bounding box center point and regress to all other object properties like bounding box size, bounding box rotation, object centers.
+- **Simple:** One-sentence method summary: use center-point heatmap to detect the bounding box center point and regress to all other object properties like bounding box size, bounding box rotation, object centers.
 
 - **Versatile:** The same framework works for object detection and catheter detection.
 
