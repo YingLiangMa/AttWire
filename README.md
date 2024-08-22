@@ -14,4 +14,4 @@ Object detection using center point detection
 - **Strong**: Our best single model achieves *80.1*AP.
 
 ## Model architecture
-![](readme/MultiDetWH.tif)
+![](readme/MultiDetWH.jpg)
